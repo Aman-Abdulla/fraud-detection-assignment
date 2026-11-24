@@ -1,4 +1,4 @@
-# Fraud Detection Assignment — Graded Assignment 1
+# Fraud Detection Assignment - Graded Assignment 1
 
 Binary classification of credit card transactions as fraud vs non-fraud.
 
@@ -62,4 +62,4 @@ Reports p50, p95, p99 latency for 100+ requests through the inference API.
 
 ## License
 
-Academic use only — BITS Pilani WILP Graded Assignment 1.
+Academic use only - BITS Pilani WILP Graded Assignment 1.
