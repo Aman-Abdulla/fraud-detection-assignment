@@ -1,0 +1,40 @@
+# Data
+data/raw/*
+data/processed/*
+*.csv
+*.parquet
+*.zip
+
+# Models
+*.pkl
+*.joblib
+*.onnx
+*.h5
+*.pt
+*.bin
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+.venv
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Reports (generated at submission)
+reports/*.pdf
