@@ -43,3 +43,6 @@ reports/convert_to_pdf.py
 
 # Assignment context files (not part of repo)
 Assigement Context/
+
+# Report source (intermediate file, PDF is the deliverable)
+reports/assignment_report.md
