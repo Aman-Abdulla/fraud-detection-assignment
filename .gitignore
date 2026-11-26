@@ -37,4 +37,9 @@ Thumbs.db
 .ipynb_checkpoints/
 
 # Reports (generated at submission)
-reports/*.pdf
+# final_report.pdf IS committed - it's the submission deliverable
+reports/benchmark.json
+reports/convert_to_pdf.py
+
+# Assignment context files (not part of repo)
+Assigement Context/
